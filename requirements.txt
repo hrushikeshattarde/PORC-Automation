@@ -1,0 +1,5 @@
+playwright>=1.47
+requests>=2.32
+python-dotenv>=1.0
+psycopg[binary]>=3.2
+pypdf>=4.0

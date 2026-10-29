@@ -1,0 +1,11 @@
+.env
+.env.example
+downloads/
+logs/
+state/
+discovery/
+deploy/
+__pycache__/
+*.pyc
+*.md
+.git/

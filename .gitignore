@@ -1,0 +1,22 @@
+# secrets
+.env
+.env.*
+!.env.example
+
+# runtime data: never commit customer documents, screenshots, logs or state
+downloads/
+logs/
+state/
+discovery/
+runs_s3/
+*.pdf
+*.png
+*.html
+out.json
+
+# python / tooling
+__pycache__/
+*.pyc
+.venv/
+.vscode/
+.idea/
